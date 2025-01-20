@@ -12,7 +12,7 @@ Install the required dependencies:
 ```bash
 pip install web3
 pip install requests
-pip install time
+pip install keccak
 ```
 ## Usage
 After installing the dependencies, run the script:
