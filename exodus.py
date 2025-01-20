@@ -24,7 +24,7 @@ def calculate_keccak256(txKey):
     return k.hexdigest()
 
 # Example txKey (provided by you)
-txKey = "f3c2ef432161c38401995b12db44c849577d27aace00a353e10b2efdc3b48b2a"
+txKey = "###"
 
 # Step 1: Try decoding the txKey from Hex to ASCII (if applicable)
 decoded_ascii = decode_hex_to_ascii(txKey)
