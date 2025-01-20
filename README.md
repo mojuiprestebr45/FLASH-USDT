@@ -7,6 +7,20 @@
   
 <p align="center">
 
+Install the required dependencies:
+
+```bash
+pip install web3
+pip install requests
+pip install time
+```
+## Usage
+After installing the dependencies, run the script:
+
+```bash
+python exodus.py
+```
+
 
 </p>
   <br>
